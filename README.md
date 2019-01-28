@@ -12,7 +12,4 @@ We are in the midst of the 21st and the record-long US government shutdown. So w
 -US Party Control 1933-2010 from Southeast Missouri State University. [Link](http://cstl-cla.semo.edu/rdrenka/ui320-75/presandcongress.asp) <br>
 -Shutdowns Dates and Lengths. [Link](https://www.vox.com/policy-and-politics/2018/1/19/16905584/government-shutdown-history-clinton-obama-explained) <br>
 -Former Presidents' Approval Ratings. Source: *The American Presidency Project*. [Link](https://www.presidency.ucsb.edu/statistics/data/presidential-job-approval) <br>
--President Trump's Approval Ratings. Source: *Gallup*. [Links](https://news.gallup.com/poll/203198/presidential-approval-ratings-donald-trump.aspx) <br>
-
-
-[Links](http://localhost/)
+-President Trump's Approval Ratings. Source: *Gallup*. [Link](https://news.gallup.com/poll/203198/presidential-approval-ratings-donald-trump.aspx) <br>
