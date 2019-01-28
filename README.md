@@ -1,3 +1,1 @@
-
-
-Amrit - Ahmeda - Greg
+## A look at US Government Shutdowns
