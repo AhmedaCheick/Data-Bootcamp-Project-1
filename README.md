@@ -14,4 +14,5 @@ We are in the midst of the 21st and the record-long US government shutdown. So w
 -Former Presidents' Approval Ratings. Source: *The American Presidency Project*. [Link](https://www.presidency.ucsb.edu/statistics/data/presidential-job-approval) <br>
 -President Trump's Approval Ratings. Source: *Gallup*. [Link](https://news.gallup.com/poll/203198/presidential-approval-ratings-donald-trump.aspx) <br>
 
-Try, try,try
+## Data Cleanup
+### S&P 500 
